@@ -89,11 +89,13 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 #### Policy:
-![image](https://github.com/user-attachments/assets/f2b5a136-f22b-4d7f-965e-4610fc5fae3b)
+![Screenshot 2024-11-06 111738](https://github.com/user-attachments/assets/e01f5f1b-8934-4280-94b1-f82fd7538cf3)
+
 #### Success rate:
-![image](https://github.com/user-attachments/assets/cef8e777-055c-4ab9-bd45-b0de1e31b8e5)
+![Screenshot 2024-11-06 111746](https://github.com/user-attachments/assets/53eca6e7-7cbf-42ff-a70a-87fbd5f7d862)
+
 #### optimal policy State-value function:
-![image](https://github.com/user-attachments/assets/a6a903d8-7ce9-49f3-8215-67e138e3add6)
+![Screenshot 2024-11-06 111753](https://github.com/user-attachments/assets/6eab3c01-bda9-419f-9813-e4374180a391)
 
 
 
